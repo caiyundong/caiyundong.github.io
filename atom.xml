@@ -4,7 +4,7 @@
   <title><![CDATA[Yundong Blog]]></title>
   <link href="http://caiyundong.github.io/atom.xml" rel="self"/>
   <link href="http://caiyundong.github.io/"/>
-  <updated>2015-07-13T11:53:13+08:00</updated>
+  <updated>2015-07-13T12:12:21+08:00</updated>
   <id>http://caiyundong.github.io/</id>
   <author>
     <name><![CDATA[Cai Yundong]]></name>
@@ -12,5 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Blog With Octopress]]></title>
+    <link href="http://caiyundong.github.io/blog/2015/07/13/title/"/>
+    <updated>2015-07-13T12:10:38+08:00</updated>
+    <id>http://caiyundong.github.io/blog/2015/07/13/title</id>
+    <content type="html"><![CDATA[<p>It is really difficult now.</p>
+
+<p>Let me see if there are other options.</p>
+
+<ul>
+<li>Option 1
+
+<ul>
+<li>Option 2</li>
+</ul>
+</li>
+</ul>
+
+]]></content>
+  </entry>
   
 </feed>
